@@ -1,0 +1,8 @@
+info: 
+	fun_code: 0
+	id: 0
+	mess: 
+		mess_1: ../data/writeToFile.txt
+		mess_2: test
+result: 
+	test

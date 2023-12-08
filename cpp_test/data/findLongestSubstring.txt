@@ -1,0 +1,10 @@
+info: 
+	fun_code: 5
+	id: 0
+	mess: 
+		mess_1: asdgasgeraasdgsa
+		mess_2: 
+result: 
+	[(SubstringInfo): str: asger; length: 5]
+	[(SubstringInfo): str: sgera; length: 5]
+	

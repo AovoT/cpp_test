@@ -1,0 +1,8 @@
+info: 
+	fun_code: 2
+	id: 0
+	mess: 
+		mess_1: /usr/local/include
+		mess_2: /
+result: 
+	[, usr, local, include]

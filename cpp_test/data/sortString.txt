@@ -1,0 +1,8 @@
+info: 
+	fun_code: 3
+	id: 0
+	mess: 
+		mess_1: was,asfasg,adgasdhads,as
+		mess_2: 0
+result: 
+	[as, was, asfasg, adgasdhads]
