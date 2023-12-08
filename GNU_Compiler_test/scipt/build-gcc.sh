@@ -1,0 +1,1 @@
+# 用 gcc 编译 src/main.cpp文件

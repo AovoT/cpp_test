@@ -1,0 +1,1 @@
+# 用 CMake 构建 src/main.cpp文件(在 build目录中)
